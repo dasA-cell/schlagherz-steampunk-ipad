@@ -1,4 +1,4 @@
-const CACHE_NAME = 'schlagherz-ipad-pwa-v1';
+const CACHE_NAME = 'schlagherz-ipad-pwa-v2';
 const APP_ASSETS = [
   './',
   './index.html',
